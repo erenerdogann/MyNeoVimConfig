@@ -1,0 +1,8 @@
+# Ignore Windows/macOS system files
+.DS_Store
+Thumbs.db
+
+# Ignore swap and backup files
+*~
+*.swp
+*.bak
